@@ -4,7 +4,7 @@
 CNN을 활용한 패션 Captcha 인식 샘플 코드입니다.
 
 ## 🚀 사용방법  
-- [블로그 설명](https://yscho03.tistory.com/82) 글을 참조하길 바랍니다.
+- [블로그 설명](https://yscho03.tistory.com/82) 글을 참고하길 바랍니다.
 
 ## 설치
 ```
